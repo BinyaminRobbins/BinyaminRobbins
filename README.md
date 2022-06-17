@@ -4,6 +4,7 @@
 - Check out my portfolio: www.linktr.ee/syntapps
 - 📫 How to reach me & my business email: syntappsdev@gmail.com
 -- check out my dev page on Google Play Store - search "pub: SyntApps"
+- View my work GitHub - "SyntApps Dev"
 
 <!---
 BinyaminRobbins/BinyaminRobbins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
